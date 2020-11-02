@@ -24,7 +24,7 @@ const personalMovieDB = {
     privat: false
 };
 
-for (let i = 0; i < 2; i++ ) {
+for (let i = 0; i < 2; i++) {
     const a = prompt(`Сколько фильмов вы уже посмотрели?`, ''),
           b = prompt('На сколько оцените его?', '');
 
